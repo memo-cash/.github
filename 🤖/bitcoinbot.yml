@@ -1,0 +1,26 @@
+
+added	/trunk
+added	/trunk/base58.h
+added	/trunk/bignum.h
+added	/trunk/db.cpp
+added	/trunk/db.h
+added	/trunk/headers.h
+added	/trunk/irc.cpp
+added	/trunk/irc.h
+added	/trunk/key.h
+added	/trunk/libeay32.dll
+added	/trunk/license.txt
+added	/trunk/main.cpp
+added	/trunk/main.h
+added	/trunk/makefile
+added	/trunk/makefile.vc
+added	/trunk/market.cpp
+added	/trunk/market.h
+added	/trunk/mingwm10.dll
+added	/trunk/net.cpp
+added	/trunk/net.h
+added	/trunk/obj
+added	/trunk/rc
+added	/trunk/rc/addressbook16.bmp
+added	/trunk/rc/addressbook16mask.bmp
+added	/trunk/rc/addressbook20.bmp
